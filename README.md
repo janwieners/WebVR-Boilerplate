@@ -1,6 +1,6 @@
 # WebVRBoilerplate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+Boilerplate for starting Angular-based developing of WebVR-scenes with [A-Frame](https://aframe.io/).
 
 ## Development server
 
